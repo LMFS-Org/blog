@@ -4,7 +4,7 @@ description: ''
 keywords: null
 author: LMFS Organiaztion
 language: en
-timezone: 'Asia/Shanghai'
+timezone: Asia/Shanghai
 url: https://lmfs-org.github.io/blog
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
@@ -58,6 +58,6 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: landscape
+theme: icarus
 deploy:
   type: ''
