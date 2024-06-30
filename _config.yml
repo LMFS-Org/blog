@@ -1,11 +1,11 @@
-title: Hexo
+title: LMFS Blog
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
+author: LMFS Organiaztion
 language: en
-timezone: ''
-url: http://example.com
+timezone: 'Asia/Shanghai'
+url: https://lmfs-org.github.io/blog
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
